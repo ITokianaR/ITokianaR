@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel 8 and ReactJS
 - 💞️ I’m looking to collaborate on web-apps project and hackathon
 - 🔎 How to reach me 
-- 📊Linkedin : [Itokiana RAMANANKIRAHINA](https://www.linkedin.com/in/itokiana-ramanankirahina-07b821249/)
+- 📊 Linkedin : [Itokiana RAMANANKIRAHINA](https://www.linkedin.com/in/itokiana-ramanankirahina-07b821249/)
 - 👤 Facebook : [Itokiana](https://web.facebook.com/yeitokiana/)
 - 📲 Instagram : [creep.ito](https://www.instagram.com/creep.ito/) 
 
