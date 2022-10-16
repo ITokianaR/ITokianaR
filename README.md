@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/J3MPB75dHsHQ1ZSFnK/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center"> - 👋 Hi, I’m @ITokianaR, the creator </h1>
+<h1 align="center"> - 👋 Hi, I’m <a href="https://github.com/ITokianaR"> @ITokianaR </a>, the creator </h1>
 <table align="center">
   <thead>
     <tr>
