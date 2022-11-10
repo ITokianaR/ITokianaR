@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/J3MPB75dHsHQ1ZSFnK/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Whatever happens, happens.</h1>
+<h1 align="center">👻"Whatever happens, happens."📊</h1>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itokianar&" alt="itokianar" /></p>
 
