@@ -2,12 +2,11 @@
   <img src="https://media.giphy.com/media/J3MPB75dHsHQ1ZSFnK/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">Whatever happens, happens.</h3>
+<h1 align="center">Whatever happens, happens.</h1>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itokianar&" alt="itokianar" /></p>
 
-<br>
-
+<h3 align="center"> Activities </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itokianar" alt="itokianar" /></a> </p>
 
 <p align="center">
