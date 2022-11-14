@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/J3MPB75dHsHQ1ZSFnK/giphy.gif" width="100"/>
 </div>
 
+<h3 align="center"> 📊 </h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itokianar&" alt="itokianar" /></p>
 
 <h3 align="center"> Activities: </h3>
