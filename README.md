@@ -1,4 +1,4 @@
-<h1 align="center">"Whatever happens, happens."</h1>
+<h1 align="center"> "Whatever happens, <em>happens</em>."</em> </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/J3MPB75dHsHQ1ZSFnK/giphy.gif" width="100"/>
