@@ -5,11 +5,6 @@
 </div>
   
 <br/>
-<br/>
-
-<p align="center"> </p>
-
-<br>
 <h2 align="center"> 🛠 </h3>
 <p align="center">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="100" height="100"/> </a>
